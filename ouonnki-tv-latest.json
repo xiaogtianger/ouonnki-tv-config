@@ -7,7 +7,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-2",
@@ -17,7 +17,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-3",
@@ -27,7 +27,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-4",
@@ -37,7 +37,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-5",
@@ -47,7 +47,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-6",
@@ -57,7 +57,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-7",
@@ -67,7 +67,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-8",
@@ -77,7 +77,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-9",
@@ -87,7 +87,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-10",
@@ -97,7 +97,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-11",
@@ -107,7 +107,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-12",
@@ -117,7 +117,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-13",
@@ -127,7 +127,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-14",
@@ -137,7 +137,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-15",
@@ -147,7 +147,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-16",
@@ -157,7 +157,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-17",
@@ -167,7 +167,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-18",
@@ -177,17 +177,17 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-19",
     "name": "🎬金鹰点播",
-    "url": "https://jinyingzy.com/api.php/provide/vod",
+    "url": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
     "detailUrl": "https://jinyingzy.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-20",
@@ -197,7 +197,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-21",
@@ -207,7 +207,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-22",
@@ -217,7 +217,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-23",
@@ -227,7 +227,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-24",
@@ -237,27 +237,27 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-25",
     "name": "🎬如意资源",
-    "url": "https://pz.v88.qzz.io/?url=https://cj.rycjapi.com/api.php/provide/vod",
+    "url": "https://cj.rycjapi.com/api.php/provide/vod",
     "detailUrl": "https://www.ryzyw.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-26",
     "name": "🎬豪华资源",
-    "url": "https://pz.v88.qzz.io/?url=https://hhzyapi.com/api.php/provide/vod",
+    "url": "https://hhzyapi.com/api.php/provide/vod",
     "detailUrl": "https://www.haohuazy.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-27",
@@ -267,7 +267,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-28",
@@ -277,7 +277,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-29",
@@ -287,7 +287,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-30",
@@ -297,7 +297,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-31",
@@ -307,7 +307,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-32",
@@ -317,17 +317,17 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-33",
-    "name": "🎬���质资源",
+    "name": "🎬优质资源",
     "url": "https://api.yzzy-api.com/inc/apijson.php",
     "detailUrl": "https://1080zyk4.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-34",
@@ -337,7 +337,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-35",
@@ -347,7 +347,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-36",
@@ -357,7 +357,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-37",
@@ -367,7 +367,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-38",
@@ -377,7 +377,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-39",
@@ -387,7 +387,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-40",
@@ -397,7 +397,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-41",
@@ -407,7 +407,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-42",
@@ -417,7 +417,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-43",
@@ -427,7 +427,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-44",
@@ -437,7 +437,7 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-45",
@@ -447,286 +447,276 @@
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
     "id": "site-46",
-    "name": "🔞优优资源",
-    "url": "https://www.yytv4.cc/api.php/provide/vod",
-    "detailUrl": "https://www.yytv4.cc",
-    "timeout": 5000,
-    "retry": 2,
-    "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
-  },
-  {
-    "id": "site-47",
     "name": "🔞小鸡资源",
     "url": "https://api.xiaojizy.live/provide/vod",
     "detailUrl": "https://xiaojizy.live",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-48",
+    "id": "site-47",
     "name": "🔞黄色仓库",
     "url": "https://hsckzy.xyz/api.php/provide/vod",
     "detailUrl": "https://hsckzy.xyz",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-49",
-    "name": "🔞-大��子-",
+    "id": "site-48",
+    "name": "🔞-大奶子-",
     "url": "https://apidanaizi.com/api.php/provide/vod",
     "detailUrl": "https://apidanaizi.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-50",
+    "id": "site-49",
     "name": "🔞jkun资源",
     "url": "https://jkunzyapi.com/api.php/provide/vod",
     "detailUrl": "https://jkunzyapi.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-51",
+    "id": "site-50",
     "name": "🔞乐播资源",
     "url": "https://lbapi9.com/api.php/provide/vod",
     "detailUrl": "https://lbapi9.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-52",
+    "id": "site-51",
     "name": "🔞奶香资源",
     "url": "https://Naixxzy.com/api.php/provide/vod",
     "detailUrl": "https://Naixxzy.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-53",
+    "id": "site-52",
     "name": "🔞森林资源",
     "url": "https://beiyong.slapibf.com/api.php/provide/vod",
     "detailUrl": "https://slapibf.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-54",
+    "id": "site-53",
     "name": "🔞辣椒资源",
-    "url": "https://pz.v88.qzz.io/?url=https://apilj.com/api.php/provide/vod",
+    "url": "https://apilj.com/api.php/provide/vod",
     "detailUrl": "https://apilj.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-55",
+    "id": "site-54",
     "name": "🔞鲨鱼资源",
     "url": "https://shayuapi.com/api.php/provide/vod",
     "detailUrl": "https://shayuapi.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-56",
+    "id": "site-55",
     "name": "🔞豆豆资源",
     "url": "https://api.douapi.cc/api.php/provide/vod",
     "detailUrl": "https://doudouzy.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-57",
+    "id": "site-56",
     "name": "🔞滴滴资源",
     "url": "https://api.ddapi.cc/api.php/provide/vod",
     "detailUrl": "https://didizy.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-58",
+    "id": "site-57",
     "name": "🔞黑料资源",
     "url": "https://www.heiliaozyapi.com/api.php/provide/vod",
     "detailUrl": "https://heiliaozy.cc",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-59",
+    "id": "site-58",
     "name": "🔞百万资源",
     "url": "https://api.bwzyz.com/api.php/provide/vod",
     "detailUrl": "https://api.bwzym3u8.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-60",
+    "id": "site-59",
     "name": "🔞桃花资源",
     "url": "https://thzy1.me/api.php/provide/vod",
     "detailUrl": "https://thzy8.me",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-61",
+    "id": "site-60",
     "name": "🔞精品资源",
     "url": "https://www.jingpinx.com/api.php/provide/vod",
     "detailUrl": "https://www.jingpinx.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-62",
+    "id": "site-61",
     "name": "🔞 CK-资源",
     "url": "https://ckzy.me/api.php/provide/vod",
     "detailUrl": "https://ckzy.me",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-63",
+    "id": "site-62",
     "name": "🔞souavZY",
     "url": "https://api.souavzyw.net/api.php/provide/vod",
     "detailUrl": "https://api.souavzyw.net",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-64",
+    "id": "site-63",
     "name": "🔞细胞资源",
     "url": "https://www.xxibaozyw.com/api.php/provide/vod",
     "detailUrl": "https://www.xxibaozyw.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-65",
+    "id": "site-64",
     "name": "🔞香蕉资源",
     "url": "https://www.xiangjiaozyw.com/api.php/provide/vod",
     "detailUrl": "https://www.xiangjiaozyw.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-66",
+    "id": "site-65",
     "name": "🔞-美少女-",
     "url": "https://www.msnii.com/api/json.php",
     "detailUrl": "https://www.msnii.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-67",
+    "id": "site-66",
     "name": "🔞-黄AVZY",
     "url": "https://www.pgxdy.com/api/json.php",
     "detailUrl": "https://www.pgxdy.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-68",
+    "id": "site-67",
     "name": "🔞白嫖资源",
     "url": "https://www.kxgav.com/api/json.php",
     "detailUrl": "https://www.kxgav.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-69",
+    "id": "site-68",
     "name": "🔞杏吧资源",
     "url": "https://xingba222.com/api.php/provide/vod",
     "detailUrl": "https://xingba111.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-70",
+    "id": "site-69",
     "name": "🔞大地资源",
     "url": "https://dadiapi.com/feifei",
     "detailUrl": "https://dadizy11.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-71",
+    "id": "site-70",
     "name": "🔞色猫资源",
     "url": "https://caiji.semaozy.net/inc/apijson_vod.php/provide/vod",
     "detailUrl": "https://semaozy1.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-72",
+    "id": "site-71",
     "name": "🔞-奥斯卡-",
     "url": "https://aosikazy.com/api.php/provide/vod",
     "detailUrl": "https://aosikazy.com",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   },
   {
-    "id": "site-73",
+    "id": "site-72",
     "name": "🔞丝袜资源",
     "url": "https://siwazyw.tv/api.php/provide/vod",
     "detailUrl": "https://siwazyw.tv",
     "timeout": 5000,
     "retry": 2,
     "isEnabled": true,
-    "updatedAt": "2026-06-29T09:01:18.662Z"
+    "updatedAt": "2026-07-06T08:25:22.888Z"
   }
 ]
